@@ -1,0 +1,171 @@
+[
+  {
+    "_id": {
+      "$oid": "6505c015f2546468616b4d36"
+    },
+    "title": "Red Fort",
+    "desc": "The Red Fort or Lal Qila (Hindustani: [lal qila]) is a historic fort in the Old Delhi neighbourhood of Delhi, India, ",
+    "pic": "https://assets-news.housing.com/news/wp-content/uploads/2021/07/20184714/All-about-the-Delhi-Red-Fort-or-Lal-Kila-FB-1200x700-compressed-2-686x400.jpg",
+    "address": "W82F+4C, Adarsh Meena Colony, Dausa, Rajasthan 303303",
+    "userid": {
+      "$oid": "6505bfb6f2546468616b4d34"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6505c725f2546468616b4d47"
+    },
+    "title": "Taj Mahal",
+    "desc": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra",
+    "pic": "https://whc.unesco.org/uploads/thumbs/site_0252_0008-750-750-20151104113424.jpg",
+    "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001",
+    "userid": {
+      "$oid": "6505bfb6f2546468616b4d34"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6505c72cf2546468616b4d48"
+    },
+    "title": "Jatayu Park",
+    "desc": "Jatayu Earth Center, is a park and tourism centre at Chadayamangalam in Kollam district of Kerala, India",
+    "pic": "https://akm-img-a-in.tosshub.com/indiatoday/jatayustory-647_112817060030.jpg",
+    "address": "Jatayu Nature Park Rd, Jatayu Junction, Chadayamangalam, Kerala 691534",
+    "userid": {
+      "$oid": "6505bfb6f2546468616b4d34"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6505c731f2546468616b4d49"
+    },
+    "title": "Eiffel Tower",
+    "desc": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. ",
+    "pic": "https://www.holidify.com/images/cmsuploads/compressed/eiffel-tower-975004_20190807180942.jpg",
+    "address": "Champ de Mars, 5 Av. Anatole France, 75007 Paris, France",
+    "userid": {
+      "$oid": "6505bfb6f2546468616b4d34"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6505c734f2546468616b4d4a"
+    },
+    "title": "Santorini",
+    "desc": "Santorini is one of the Cyclades islands in the Aegean Sea.",
+    "pic": "https://www.holidify.com/images/bgImages/SANTORINI.jpg",
+    "address": "Cyclades, Aegean Islands",
+    "userid": {
+      "$oid": "6505c61df2546468616b4d42"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6505c73af2546468616b4d4b"
+    },
+    "title": "Grand Canyon",
+    "desc": "The Grand Canyon in Arizona is a natural formation distinguished by layered bands of red rock",
+    "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Canyon_River_Tree_%28165872763%29.jpeg/800px-Canyon_River_Tree_%28165872763%29.jpeg",
+    "address": " Arizona",
+    "userid": {
+      "$oid": "6505c61df2546468616b4d42"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6505c73ef2546468616b4d4c"
+    },
+    "title": "Pushkar",
+    "desc": "Pushkar is a city, near Ajmer City and headquarters of Pushkar tehsil in the Ajmer district in the Indian state of Rajasthan",
+    "pic": "https://beyonder.travel/wp-content/uploads/2020/06/Pushkar_Lake_Rajasthan-800x445.jpg",
+    "address": "Ajmer",
+    "userid": {
+      "$oid": "6505c699f2546468616b4d43"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6505c743f2546468616b4d4d"
+    },
+    "title": "Valley of Flowers National Park",
+    "desc": "Valley of Flowers National Park is an Indian national park which was established in 1982. ",
+    "pic": "https://www.india.com/wp-content/uploads/2018/08/Valley-of-flowers.jpg",
+    "address": " Uttarakhand 246443",
+    "userid": {
+      "$oid": "6505c699f2546468616b4d43"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6505c747f2546468616b4d4e"
+    },
+    "title": "Dudhsagar Falls",
+    "desc": "Dudhsagar Falls is a four-tiered waterfall located on the Mandovi River in the Indian state of Goa",
+    "pic": "https://www.thestatesman.com/wp-content/uploads/2022/06/Dudhsagar-waterfall-1-1024x576.jpg",
+    "address": "Sonaulim, Goa 403410",
+    "userid": {
+      "$oid": "6505c6d8f2546468616b4d44"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6505c74bf2546468616b4d4f"
+    },
+    "title": "Lotus Temple",
+    "desc": "The Lotus Temple, located in New Delhi, India, is a Baháʼí House of Worship that was dedicated in December 1986.",
+    "pic": "https://curlytales.com/wp-content/uploads/2019/05/Lotus-Temple2.jpg",
+    "address": " ",
+    "userid": {
+      "$oid": "6505c6d8f2546468616b4d44"
+    }
+  },
+
+  {
+    "_id": {
+      "$oid": "6505c751f2546468616b4d50"
+    },
+    "title": "Hampi",
+    "desc": "Hampi is an ancient village in the south Indian state of Karnataka. ",
+    "pic": "https://www.holidify.com/images/bgImages/HAMPI.jpg",
+    "address": "Hampi (City), Bellary District Now Vijayanagara district, Karnataka, India",
+    "userid": {
+      "$oid": "6505c6d8f2546468616b4d44"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6505c758f2546468616b4d51"
+    },
+    "title": "Hawa Mahal",
+    "desc": "The Hawa Mahal is a palace in the city of Jaipur, India. Built from red and pink sandstone,",
+    "pic": "https://www.jetsetter.com//uploads/sites/7/2018/04/eXCHxob--1380x1035.jpeg",
+    "address": "Hawa Mahal Rd, Badi Choupad, J.D.A. Market, Pink City, Jaipur, Rajasthan 302002",
+    "userid": {
+      "$oid": "6505c6d8f2546468616b4d44"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6505c75cf2546468616b4d52"
+    },
+    "title": "Amber Palace",
+    "desc": "Amer Fort or Amber Fort is a fort located in Amer, Rajasthan, India.",
+    "pic": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d3/a8/57/images-30-largejpg.jpg",
+    "address": "Devisinghpura, Amer, Jaipur, Rajasthan 302001",
+    "userid": {
+      "$oid": "6505c6d8f2546468616b4d44"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6505c765f2546468616b4d53"
+    },
+    "title": "Chand Bawri",
+    "desc": "Chand Baori is a stepwell situated in the village of Abhaneri in the Indian state of Rajasthan. ",
+    "pic": "https://www.inditales.com/wp-content/uploads/2017/10/chand-baori-abhaneri.jpg",
+    "address": "Abhaneri Rajasthan",
+    "userid": {
+      "$oid": "6505c6d8f2546468616b4d44"
+    }
+  }
+]

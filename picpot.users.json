@@ -1,0 +1,98 @@
+[
+  {
+    "_id": {
+      "$oid": "6505bfb6f2546468616b4d34"
+    },
+    "name": "abc",
+    "email": "abc@picpot.com",
+    "password": "abc1234",
+    "locationsid": [
+      {
+        "$oid": "6505c015f2546468616b4d36"
+      },
+      {
+        "$oid": "6505c725f2546468616b4d47"
+      },
+      {
+        "$oid": "6505c72cf2546468616b4d48"
+      },
+      {
+        "$oid": "6505c731f2546468616b4d49"
+      }
+    ],
+    "pic": "https://xsgames.co/randomusers/assets/avatars/pixel/19.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "6505c61df2546468616b4d42"
+    },
+    "name": "xyz",
+    "email": "xyz@picpot.com",
+    "password": "xyz1234",
+    "pic": "https://xsgames.co/randomusers/assets/avatars/pixel/29.jpg",
+    "locationsid": [
+      {
+        "$oid": "6505c734f2546468616b4d4a"
+      },
+      {
+        "$oid": "6505c73af2546468616b4d4b"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6505c699f2546468616b4d43"
+    },
+    "name": "mno",
+    "email": "mno@picpot.com",
+    "password": "mno1234",
+    "pic": "https://xsgames.co/randomusers/assets/avatars/pixel/20.jpg",
+    "locationsid": [
+      {
+        "$oid": "6505c73ef2546468616b4d4c"
+      },
+      {
+        "$oid": "6505c743f2546468616b4d4d"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6505c6d8f2546468616b4d44"
+    },
+    "name": "rst",
+    "email": "rst@picpot.com",
+    "password": "rst1234",
+    "pic": "https://xsgames.co/randomusers/assets/avatars/pixel/9.jpg",
+    "locationsid": [
+      {
+        "$oid": "6505c747f2546468616b4d4e"
+      },
+      {
+        "$oid": "6505c74bf2546468616b4d4f"
+      },
+      {
+        "$oid": "6505c751f2546468616b4d50"
+      },
+      {
+        "$oid": "6505c758f2546468616b4d51"
+      },
+      {
+        "$oid": "6505c75cf2546468616b4d52"
+      },
+      {
+        "$oid": "6505c765f2546468616b4d53"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6505c6f8f2546468616b4d45"
+    },
+    "name": "ghi",
+    "email": "ghi@picpot.com",
+    "password": "ghi1234",
+    "pic": "https://xsgames.co/randomusers/assets/avatars/pixel/8.jpg",
+    "locationsid": []
+  }
+]
